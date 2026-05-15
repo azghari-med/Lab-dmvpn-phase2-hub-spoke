@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lab: DMVPN Phase 2 — NovaTech Industries Enterprise WAN
 
 ## 🏢 Scenario
@@ -410,3 +411,6 @@ Fix     : DC-CORE → distribute-list OUT Tunnel0
 - What breaks if a spoke uses point-to-point GRE instead of multipoint?
 - How does distribute-list direction affect route filtering in EIGRP?
 - How do you confirm spoke-to-spoke is truly direct?
+=======
+# Lab-dmvpn-phase2-hub-spoke
+>>>>>>> ff5bf631cef131c0530999e9716a0341335567f0

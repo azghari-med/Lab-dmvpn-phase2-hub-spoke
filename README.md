@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Lab: DMVPN Phase 2 — NovaTech Industries Enterprise WAN
 
 ## 🏢 Scenario
